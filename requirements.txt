@@ -1,0 +1,7 @@
+flask
+twilio
+langchain
+requests
+langsmith
+openai
+python-dotenv
