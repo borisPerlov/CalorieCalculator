@@ -4,6 +4,7 @@ import requests
 from io import BytesIO
 import openai
 from langsmith.wrappers import wrap_openai
+
 from langsmith import traceable
 from langsmith.prompts import PromptTemplate
 
