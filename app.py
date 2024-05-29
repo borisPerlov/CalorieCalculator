@@ -6,7 +6,7 @@ import openai
 from langsmith.wrappers import wrap_openai
 
 from langsmith import traceable
-from langsmith.prompts import PromptTemplate
+from langchain.prompts import PromptTemplate
 
 from dotenv import load_dotenv
 load_dotenv()
